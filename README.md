@@ -7,10 +7,7 @@ This repository is a place to practice and improve my Python programming skills 
 
 ## Projects Included 📂  
 Here are some types of projects you might find:  
-- Basic algorithms  
-- Console-based games  
-- Data manipulation scripts  
-- Simple utility tools  
+- wishTotal.py -> simple web scraper to add up the total cost of an amazon wishlist.
 
 ## How to Use 🚀  
 Feel free to explore the repository!  
