@@ -7,7 +7,13 @@ This repository is a place to practice and improve my Python programming skills 
 
 ## Projects Included 📂  
 Here are some types of projects you might find:  
-- wishTotal.py -> simple web scraper to add up the total cost of an amazon wishlist.
+- **wishTotal.py** -> A simple web scraper to add up the total cost of an Amazon wishlist.  
+  - **Used**: `requests` library for HTTP requests, `BeautifulSoup` for parsing HTML, list processing, and basic string manipulation.  
+  - **Learned**: Web scraping techniques, handling HTTP requests and responses, parsing HTML data, and extracting specific elements from a webpage using BeautifulSoup.
+
+- **matrix_calc** -> Implements basic matrix operations (addition, subtraction, multiplication) with example matrices for testing.  
+  - **Used**: Lists, nested loops, basic math operations.  
+  - **Learned**: Matrix manipulation, handling nested data structures, and implementing matrix multiplication from scratch.
 
 ## How to Use 🚀  
 Feel free to explore the repository!  
