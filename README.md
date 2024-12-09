@@ -14,6 +14,9 @@ Here are some types of projects you might find:
 - **matrix_calc.py** -> Implements basic matrix operations (addition, subtraction, multiplication) with example matrices for testing.  
   - **Used**: Lists, nested loops, basic math operations.  
   - **Learned**: Matrix manipulation, handling nested data structures, and implementing matrix multiplication from scratch.
+- **pomodoro_timer.py** -> A simple Pomodoro timer for managing study sessions with customizable work and break periods.
+  - **Used**: time module for delays, playsound library for audio notifications, basic loops and control structures.
+  - **Learned**: Timer implementation, user input handling, and working with external libraries like playsound to enhance functionality.
 
 ## How to Use 🚀  
 Feel free to explore the repository!  
