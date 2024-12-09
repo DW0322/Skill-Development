@@ -11,7 +11,7 @@ Here are some types of projects you might find:
   - **Used**: `requests` library for HTTP requests, `BeautifulSoup` for parsing HTML, list processing, and basic string manipulation.  
   - **Learned**: Web scraping techniques, handling HTTP requests and responses, parsing HTML data, and extracting specific elements from a webpage using BeautifulSoup.
 
-- **matrix_calc** -> Implements basic matrix operations (addition, subtraction, multiplication) with example matrices for testing.  
+- **matrix_calc.py** -> Implements basic matrix operations (addition, subtraction, multiplication) with example matrices for testing.  
   - **Used**: Lists, nested loops, basic math operations.  
   - **Learned**: Matrix manipulation, handling nested data structures, and implementing matrix multiplication from scratch.
 
